@@ -2,6 +2,7 @@ line 1
 line 2
 line 3
 line 1 Feature1
+<<<<<<< HEAD
 ---- EOD ------ 
 //--------------------------------------
 
@@ -10,3 +11,8 @@ Edit the file from GitGub website
 //-----------------------
 well i gegt the file updated after edit it on git hub website then and pull it 
 good job ya Nasr 
+
+//------------------
+update on branch feature1 
+
+
