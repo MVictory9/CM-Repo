@@ -5,7 +5,7 @@ import java.util.Scanner;
 	public static void main(String[] args) {
 		
 		Scanner takeInputs = new Scanner(System.in);
-		System.out.println("Please Enter your full name: ");
+		System.out.println("Please Enter your name: ");
 		String UserInputs = takeInputs.next();
 		System.out.print("Wlecome Dear customer: "+UserInputs);
 		
